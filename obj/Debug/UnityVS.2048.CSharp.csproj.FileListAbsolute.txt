@@ -1,0 +1,11 @@
+D:\TFGame\Trunk\2048\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\TFGame\Trunk\2048\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\TFGame\Trunk\2048\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\TFGame\Trunk\2048\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\TFGame\Trunk\2048\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\TFGame\Trunk\2048\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\TFGame\Trunk\2048\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\TFGame\Trunk\2048\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\TFGame\Trunk\2048\obj\Debug\UnityVS.2048.CSharp.csprojResolveAssemblyReference.cache
+D:\TFGame\Trunk\2048\obj\Debug\Assembly-CSharp.dll
+D:\TFGame\Trunk\2048\obj\Debug\Assembly-CSharp.pdb
