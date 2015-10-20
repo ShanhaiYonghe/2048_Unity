@@ -1,0 +1,11 @@
+F:\Git\2048_Unity\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+F:\Git\2048_Unity\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+F:\Git\2048_Unity\Temp\UnityVS_bin\Debug\UnityEditor.dll
+F:\Git\2048_Unity\Temp\UnityVS_bin\Debug\UnityEngine.dll
+F:\Git\2048_Unity\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+F:\Git\2048_Unity\Temp\UnityVS_bin\Debug\UnityEngine.xml
+F:\Git\2048_Unity\Temp\UnityVS_bin\Debug\UnityEditor.xml
+F:\Git\2048_Unity\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+F:\Git\2048_Unity\obj\Debug\UnityVS.2048_Unity.CSharp.csprojResolveAssemblyReference.cache
+F:\Git\2048_Unity\obj\Debug\Assembly-CSharp.dll
+F:\Git\2048_Unity\obj\Debug\Assembly-CSharp.pdb
